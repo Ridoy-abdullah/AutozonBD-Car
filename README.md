@@ -20,10 +20,8 @@ It's Basically Car Shop. U Can Buy Any Car From Here
 
 ## Demo
 
-Live Site Link : https://car-house-81fa4.web.app/
+Live Site Link : https://autozonbd-project.web.app/
 
 
-## Feedback
 
-If you have any feedback, please reach out to us at afreuljoy@gmail.com
 
